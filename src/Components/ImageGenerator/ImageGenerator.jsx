@@ -34,7 +34,6 @@ const ImageGenerator = (props) => {
     );
 
     let data=await response.json();
-    console.log(data);
     let data_array=data.data;
     setImage_url(data_array[0].url);
     setloading(false);
