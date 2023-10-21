@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/Ai-Image-Generator/static/css/main.e96f2a19.css",
-    "main.js": "/Ai-Image-Generator/static/js/main.25642b6b.js",
+    "main.js": "/Ai-Image-Generator/static/js/main.b6ee439a.js",
     "static/js/787.5e455f9d.chunk.js": "/Ai-Image-Generator/static/js/787.5e455f9d.chunk.js",
     "static/media/default_image.svg": "/Ai-Image-Generator/static/media/default_image.a4d442e8af1d092fe54c123b1d87ee02.svg",
     "index.html": "/Ai-Image-Generator/index.html",
     "main.e96f2a19.css.map": "/Ai-Image-Generator/static/css/main.e96f2a19.css.map",
-    "main.25642b6b.js.map": "/Ai-Image-Generator/static/js/main.25642b6b.js.map",
+    "main.b6ee439a.js.map": "/Ai-Image-Generator/static/js/main.b6ee439a.js.map",
     "787.5e455f9d.chunk.js.map": "/Ai-Image-Generator/static/js/787.5e455f9d.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e96f2a19.css",
-    "static/js/main.25642b6b.js"
+    "static/js/main.b6ee439a.js"
   ]
 }
